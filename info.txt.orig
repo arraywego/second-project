@@ -1,8 +1,7 @@
 This is a test file.
-
+<<<<<<< HEAD
 Here is another line and
 another line.
-
+=======
 Another line was added to this file.
-
-
+>>>>>>> feature1
